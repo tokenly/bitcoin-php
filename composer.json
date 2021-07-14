@@ -1,5 +1,5 @@
 {
-  "name": "bitwasp/bitcoin",
+  "name": "tokenly/bitcoin",
   "description": "PHP Bitcoin library with functions for transactions, signatures, serialization, Random/Deterministic ECDSA keys, blocks, RPC bindings",
   "type": "library",
   "homepage": "https://github.com/bit-wasp/bitcoin-php",
@@ -26,8 +26,8 @@
     "php-64bit": ">=7.0",
     "pleonasm/merkle-tree": "1.0.0",
     "composer/semver": "^1.4.0|^3.2.0",
-    "lastguest/murmurhash": "v2.0.0",
-    "mdanter/ecc": "^0.5.0",
+    "lastguest/murmurhash": "v2.1.1",
+    "mdanter/ecc": "dev-master",
     "bitwasp/buffertools": "^0.5.0",
     "bitwasp/bech32": "^0.0.1"
   },
